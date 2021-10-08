@@ -1,1 +1,1 @@
-# simple-gradle-java-app
+# simple-java-gradle-app
